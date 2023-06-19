@@ -8,7 +8,7 @@ RAG (Retriever Augmented Generation) uses a private enterprise knowledge base (l
 3. Neural Retriever
 4. Re-Ranker
 5. In-context learning using LLM
-6. LLM Model Evaluation
+6. LLM Model Evaluation/
    I. LLM Eval Toolkit
    II. MLFLOW Integration
 8. Instruct DB
